@@ -1,0 +1,23 @@
+{
+  "name": "bar_chart",
+  "version": "1.0.0",
+  "description": "FCC Bar Chart",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-evans/bar_chart.git"
+  },
+  "author": "Alex Evans",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alex-evans/bar_chart/issues"
+  },
+  "homepage": "https://github.com/alex-evans/bar_chart#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sass": "^1.27.0"
+  }
+}
